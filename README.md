@@ -1,4 +1,4 @@
-# rsa_concentrator_indexes_logger
+# RSA Concentrator Indexes Logger
 RSA Security Analytics - Concentrator Indexes Stats logger
 
 Allows for a better understanding of the indexes for each meta parsed and stored:
