@@ -13,6 +13,6 @@ In conclusion, after a few hours running, you can easily see which indexes are f
 
 Here is how to use it:
 
-./indexConcentratorLogger.py /root//index-concentrator.pl [<refreshing delay in mins - default: 5>] [max iterrations - default: 1440 (every mins = 5 days running)]
+./indexConcentratorLogger.py /root//index-concentrator.pl [refreshing delay in mins - default: 5] [max iterrations - default: 1440 (every mins = 5 days running)]
 
 Requires Python 2.7 to run, tried to stay simple and native, in order to reduce the footprint on the concentrator.
